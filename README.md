@@ -1,2 +1,1 @@
-This is the readme file of reame-edits; the readme-edit branch is different from the main branch.
-
+I am a newbie in programming and I will sure need loads of help from the Github community. Thankfully I am have tried to run my first branch different from the main branch and i made 5 commits already, though still learning to master some commands. thanks for being patient with me.
